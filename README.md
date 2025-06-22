@@ -1,5 +1,4 @@
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Sponsor_Me!-%234ea94b.svg?style=for-the-badge&logo=coffee&logoColor=white" alt="Sponsor"></a>
   <a href="mailto:maor7@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email_Me!-%234ea94b.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -15,7 +14,8 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋
 -   💡 Pivoting to **Product / Data / CS**.
 -   💻 Passionate about **AI & Web Apps**.
 -   🏀 Love **gaming, basketball & rock**.
--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=3399FF&center=false&vCenter=true&width=435&lines=Motto%3A+The+Oldest+Egg" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=3399FF&center=false&vCenter=true&width=435&lines=Motto%3A+The+Oldest+Egg" alt="Typing SVG" />
 
 <br>
 

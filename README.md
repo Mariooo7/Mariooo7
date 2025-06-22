@@ -37,7 +37,13 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋
 
 ---
 
-### 💻 **Wakatime Stats**
+### 💻 **My Coding Activity**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariooo7&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
+</p>
+
+---
 
 <br>
 

@@ -1,35 +1,33 @@
 <div align="center">
 
 <a href="https://github.com/Mariooo7">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+IU_Roam+(Mariooo7);The Oldest Egg;A+Business+Student+Pivoting+to+Tech;Data+Analysis+%7C+Web+App+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+IU_Roam+(Mario);The Oldest Egg;Data+Analysis+%7C+Web+Apps+%7C+AI" alt="Typing SVG" />
 </a>
 
 </div>
 
 <p align="center">
-  <a href="mailto:maor7@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-maor7@mail2.sysu.edu.cn-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:maor7@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://profile-counter.glitch.me/Mariooo7/count.svg" alt="Visitors">
 </p>
 
 ---
 
-### 🤔 **关于我 (About Me)**
+### 🤔 **About Me**
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Mariooo7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="IU_Roam's GitHub Stats">
 
-你好！我是 **IU_Roam (Mariooo7)** 👋
+Hello! I'm **IU_Roam (Mariooo7)** 👋
 
--   🎓 目前就读于 **中山大学** 管理学院-工商管理。
--   💡 正在求职(产品/数据)
--   💻 对 **AI、数据分析** 和 **Web 应用开发** 感兴趣
--   🏀 工作学习之余，我热爱**游戏、篮球**和**摇滚**。
-
+-   🎓 I'm currently an undergraduate student at the Business School of **Sun Yat-sen University**, majoring in Business Administration.
+-   💻 I'm passionate about **AI, Data Analysis**, and **Web Application Development**.
+-   🏀 Love **gaming, basketball**, and **rock music**.
 
 <br>
 
 ---
 
-### 🚀 **我的技术栈 (My Tech Stack)**
+### 🚀 **My Tech Stack**
 
 <p align="left">
   <strong>Languages:</strong><br>
@@ -56,12 +54,12 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212258752-b91d2969-e767-4632-a345-3143528e0280.gif" alt="Isometric Tech Stack">
-  <p><i>根据你的技术栈，我为你挑选了 Python, React, JS, Django, R, MySQL 制作了这张动图</i></p>
+  <p><i>Based on your skills, I picked Python, React, JS, Django, R, & MySQL for this graphic.</i></p>
 </div>
 
 ---
 
-### 🏆 **我的 GitHub 成就 (GitHub Trophies)**
+### 🏆 **GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mariooo7&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
@@ -69,9 +67,9 @@
 
 ---
 
-### 🎮 **我的项目 (My Project)**
+### 🎮 **My Project**
 
-我独立开发了一个网页版的游戏，欢迎体验和 Star！
+I developed a web-based game. Feel free to check it out and leave a star if you like it!
 
 <p align="center">
   <a href="https://picture-talk-game.cyou" target="_blank">
@@ -81,7 +79,7 @@
 
 ---
 
-### 🐍 **“贪吃蛇”贡献图 (Snake Contribution Graph)**
+### 🐍 **Snake Contribution Graph**
 
 <div align="center">
   <img src="https://github.com/Mariooo7/Mariooo7/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">

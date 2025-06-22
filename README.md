@@ -54,7 +54,6 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212258752-b91d2969-e767-4632-a345-3143528e0280.gif" alt="Isometric Tech Stack">
-  <p><i>Based on your skills, I picked Python, React, JS, Django, R, & MySQL for this graphic.</i></p>
 </div>
 
 ---

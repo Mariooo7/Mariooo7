@@ -17,8 +17,6 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=3399FF&center=false&vCenter=true&width=435&lines=The+Oldest+Egg" alt="Typing SVG" />
 
-<br>
-
 ### 🚀 **My Tech Stack**
 
 <p align="left">
@@ -44,8 +42,6 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋
 </p>
 
 ---
-
-<br>
 
 ### 🎮 **My Project**
 

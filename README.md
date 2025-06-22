@@ -72,7 +72,7 @@ I developed a web-based game. Feel free to check it out and leave a star if you 
 
 <p align="center">
   <a href="https://picture-talk-game.cyou" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariooo7&repo=Picture-Talk-Game&theme=tokyonight&show_owner=true" alt="Picture-Talk-Game Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariooo7&repo=django-ai-game&theme=tokyonight&show_owner=true" alt="Picture-Talk-Game Project">
   </a>
 </p>
 

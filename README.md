@@ -49,7 +49,7 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋
 
 ### 🎮 **My Project**
 
-I developed a web-based game. Feel free to check it out and leave a star if you like it!
+I developed a prompt-based ai game. Feel free to check it out and leave a star if you like it!
 
 <p align="center">
   <a href="https://picture-talk-game.cyou" target="_blank">

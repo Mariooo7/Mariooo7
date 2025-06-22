@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Mariooo7">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+IU_Roam+(Mario);永远老卵;A+Business+Student+Pivoting+to+Tech;Data+Analysis+%7C+Web+App+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+IU_Roam+(Mariooo7);The Oldest Egg;A+Business+Student+Pivoting+to+Tech;Data+Analysis+%7C+Web+App+%7C+AI" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,14 +17,13 @@
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Mariooo7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="IU_Roam's GitHub Stats">
 
-你好！我是 **IU_Roam (Mario)** 👋
+你好！我是 **IU_Roam (Mariooo7)** 👋
 
--   🎓 目前就读于 **中山大学** 管理学院，主修工商管理。
--   💡 我正走在一条激动人心的转型之路上，目标是进入**产品/数据**领域或**申请留学转码**。
--   💻 我对 **AI、数据分析** 和 **Web 应用开发** 充满热情，并积极自学相关技术。
--   🏀 工作学习之余，我热爱**游戏、篮球**和**摇滚乐**。
+-   🎓 目前就读于 **中山大学** 管理学院-工商管理。
+-   💡 正在求职(产品/数据)
+-   💻 对 **AI、数据分析** 和 **Web 应用开发** 感兴趣
+-   🏀 工作学习之余，我热爱**游戏、篮球**和**摇滚**。
 
-> My Motto: **永远老卵** (Forever Awesome & Confident)
 
 <br>
 

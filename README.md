@@ -48,7 +48,3 @@ Hello! I'm **IU_Roam (Mariooo7)** 👋 <img src="https://readme-typing-svg.herok
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariooo7&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Mariooo7/count.svg" alt="Visitors">
-</p>
